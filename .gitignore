@@ -1,0 +1,14 @@
+node_modules/
+dist/
+outputs/
+tools/
+*.bak.*
+*.log
+*.zip
+*.cmd
+*.ps1
+.env
+.env.*
+.DS_Store
+server.mjs
+share.mjs

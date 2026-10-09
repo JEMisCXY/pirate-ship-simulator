@@ -1,0 +1,12 @@
+天空：Poly Haven / kloofendal_48d_partly_cloudy_puresky，CC0。
+木甲板：Poly Haven / wood_floor_deck，CC0。
+铺地：Poly Haven / pavement_04，CC0。
+草地：Three.js 示例纹理 terrain/grasslight-big.jpg，随 Three.js 示例资源使用。
+界面图标：Phosphor Icons，MIT。
+海盗船、人物、园区结构与植被几何：项目内建模型。
+
+https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky
+https://polyhaven.com/a/wood_floor_deck
+https://polyhaven.com/a/pavement_04
+https://github.com/mrdoob/three.js
+https://github.com/phosphor-icons/core
